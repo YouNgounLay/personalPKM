@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "77dd1ec56c1cbb93",
+        "id": "4e296b4c557b1f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "6bdafa85c2b7457b",
+            "id": "7ac616435eb79192",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "What helps you stand out in job application.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "What helps you stand out in job application"
+            }
+          },
+          {
+            "id": "649125f8e08a98f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Books That I would Like To Read.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Books That I would Like To Read"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,13 +184,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "6bdafa85c2b7457b",
+  "active": "649125f8e08a98f0",
   "lastOpenFiles": [
-    "Barefoot Investor.md",
+    "Fleeting Notes/Books That I would Like To Read.md",
+    "What helps you stand out in job application.md",
+    "Life Canvas.canvas",
+    "README.md",
+    "Permanent Notes/Book Summary/The Barefoot Investor/The Barefoot Investor MOC.md",
+    "Templates/Basic Template.md",
+    "Untitled",
+    "Permanent Notes/Book Summary/The Barefoot Investor",
+    "Permanent Notes/Book Summary",
     "Fleeting Notes/WIP/Modular CSS.md",
     "Fleeting Notes/Job Application/Skill Sets/Skills & Qualifications That People Look For.md",
     "Fleeting Notes/Journaling/06_11_2025 Thursday.md",
-    "What helps you stand out in job application.md",
     "Fleeting Notes/Book Summary",
     "Fleeting Notes/Currently Reading.md",
     "Fleeting Notes/Job Application/Skill Sets",
@@ -180,7 +206,6 @@
     "Welcome.md",
     "Fleeting Notes/Journaling",
     "Templates",
-    "Permanent Notes",
-    "Fleeting Notes"
+    "Permanent Notes"
   ]
 }
