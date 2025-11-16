@@ -15,4 +15,4 @@ For now, just collecting a list of books
 11. [[Designing Data Intensive Application By Martin K & Chris R]]
 12. [[Code Complete By Steve McConnell]]
 13. [[The Clean Coder: A code of conduct for professional Programmer By Uncle Bob]]
-14. [[]]
+ ****
